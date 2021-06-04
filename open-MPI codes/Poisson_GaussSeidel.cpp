@@ -1,5 +1,5 @@
 // Gauss-Seidel : Red-Black coloring approach
-// Author: Rudransh Jaiswal ME17B063
+// Author: Rudransh Jaiswal
 
 #include <iostream>
 #include <mpi.h>
